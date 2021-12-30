@@ -1,1 +1,2 @@
-# Probability
+# 一些说明
+github里不能直接查看Markdown文件的数学公式,需要安装插件或者从本地的md编辑器查看.
